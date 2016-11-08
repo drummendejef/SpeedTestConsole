@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\SpeedTestConsole\SpeedTestConsole\bin\Debug\SpeedTestConsole.exe.config
+C:\Users\Admin\Documents\GitHub\SpeedTestConsole\SpeedTestConsole\bin\Debug\SpeedTestConsole.exe
+C:\Users\Admin\Documents\GitHub\SpeedTestConsole\SpeedTestConsole\bin\Debug\SpeedTestConsole.pdb
+C:\Users\Admin\Documents\GitHub\SpeedTestConsole\SpeedTestConsole\obj\Debug\SpeedTestConsole.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\SpeedTestConsole\SpeedTestConsole\obj\Debug\SpeedTestConsole.exe
+C:\Users\Admin\Documents\GitHub\SpeedTestConsole\SpeedTestConsole\obj\Debug\SpeedTestConsole.pdb
